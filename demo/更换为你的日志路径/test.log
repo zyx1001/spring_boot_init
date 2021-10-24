@@ -1,0 +1,9 @@
+20:15:33.838 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 8260 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+20:15:33.841 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+20:15:35.187 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+20:15:35.286 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+20:15:35.852 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 2.198 seconds (JVM running for 3.228)
+20:15:35.985 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@33364212, started on Sat Oct 23 20:15:33 GMT+08:00 2021
+20:15:36.672 [main] INFO  com.zyx.init.demo.DemoApplicationTests - UserInfo(id=1, userName=zzz, password=111, createTime=2021-06-10T22:01:19, updateTime=2021-06-10 22:01:19, isDeleted=false)
+20:15:36.697 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+20:15:36.704 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

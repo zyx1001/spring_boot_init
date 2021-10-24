@@ -1,0 +1,238 @@
+16:40:59.063 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 24027 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+16:40:59.067 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+16:41:00.044 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.189 seconds (JVM running for 2.202)
+16:41:00.159 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@35fb22a9, started on Sat Oct 23 16:40:59 GMT+08:00 2021
+16:44:10.973 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 24577 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+16:44:10.977 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+16:44:11.877 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.084 seconds (JVM running for 1.859)
+16:44:11.979 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@72a85671, started on Sat Oct 23 16:44:10 GMT+08:00 2021
+17:01:08.729 [main] INFO  com.zyx.init.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_212 on zyx-PC with PID 27479 (/home/zyx/code/spring_boot_init/demo/target/classes started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:01:08.735 [main] INFO  com.zyx.init.demo.DemoApplication - No active profile set, falling back to default profiles: default
+17:01:09.292 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:01:09.293 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:01:09.293 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+17:01:09.325 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:01:09.538 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:01:09.607 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:01:09.654 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:01:09.655 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:01:09.657 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:02:29.432 [main] INFO  com.zyx.init.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_212 on zyx-PC with PID 27868 (/home/zyx/code/spring_boot_init/demo/target/classes started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:02:29.437 [main] INFO  com.zyx.init.demo.DemoApplication - No active profile set, falling back to default profiles: default
+17:02:30.050 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:02:30.051 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:02:30.051 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+17:02:30.089 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:02:30.327 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:02:30.401 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:02:30.450 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:02:30.451 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:02:30.452 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:06:28.329 [main] INFO  com.zyx.init.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_212 on zyx-PC with PID 28582 (/home/zyx/code/spring_boot_init/demo/target/classes started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:06:28.335 [main] INFO  com.zyx.init.demo.DemoApplication - No active profile set, falling back to default profiles: default
+17:06:28.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:06:28.945 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:06:28.946 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+17:06:28.977 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:06:29.183 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:06:29.254 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:06:29.351 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:06:29.367 [main] INFO  com.zyx.init.demo.DemoApplication - Started DemoApplication in 1.305 seconds (JVM running for 1.872)
+17:12:25.908 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:12:25.909 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:27:43.702 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 32008 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:27:43.706 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+17:27:44.754 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:27:44.867 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:27:45.159 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.643 seconds (JVM running for 2.581)
+17:27:45.283 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@3ac8cf9b, started on Sat Oct 23 17:27:43 GMT+08:00 2021
+17:27:45.542 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:45.717 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:45.717 [Druid-ConnectionPool-Create-398777435] INFO  com.alibaba.druid.pool.DruidAbstractDataSource - {dataSource-1} failContinuous is true
+17:27:46.395 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:47.099 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:47.772 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:48.454 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:49.130 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:49.810 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:50.488 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:51.165 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:51.852 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:52.538 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:53.217 [Druid-ConnectionPool-Create-398777435] ERROR com.alibaba.druid.pool.DruidDataSource - create connection SQLException, url: jdbc:mysql://120.79.151.118:3306/assets?characterEncoding=utf8&useSSL=false&serverTimezone=UTC, errorCode 1049, state 42000
+java.sql.SQLSyntaxErrorException: Unknown database 'assets'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1657) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1723) ~[druid-1.2.6.jar:1.2.6]
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2801) [druid-1.2.6.jar:1.2.6]
+17:27:53.222 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:27:53.223 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:28:29.759 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 32219 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:28:29.764 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+17:28:30.825 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:28:30.939 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:28:31.220 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.658 seconds (JVM running for 2.623)
+17:28:31.347 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@7c1c5936, started on Sat Oct 23 17:28:29 GMT+08:00 2021
+17:28:32.006 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:28:32.025 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:37:38.656 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 1245 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:37:38.660 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+17:37:39.743 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:37:39.858 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:37:40.129 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.653 seconds (JVM running for 2.61)
+17:37:40.251 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@7c1c5936, started on Sat Oct 23 17:37:38 GMT+08:00 2021
+17:37:40.851 [main] INFO  com.zyx.init.demo.DemoApplicationTests - UserInfo(id=1, userName=zzz, password=111, createTime=2021-06-10T22:01:19, updateTime=2021-06-10 22:01:19, isDeleted=false)
+17:37:40.865 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:37:40.870 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:38:10.108 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 1403 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:38:10.111 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+17:38:11.158 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:38:11.267 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:38:11.547 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 1.639 seconds (JVM running for 2.642)
+17:38:11.680 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@7c1c5936, started on Sat Oct 23 17:38:10 GMT+08:00 2021
+17:38:12.277 [main] INFO  com.zyx.init.demo.DemoApplicationTests - UserInfo(id=1, userName=zzz, password=111, createTime=2021-06-10T22:01:19, updateTime=2021-06-10 22:01:19, isDeleted=false)
+17:38:12.291 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:38:12.296 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:42:41.488 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 2440 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+17:42:41.492 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+17:42:42.799 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+17:42:42.921 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:42:43.501 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 2.202 seconds (JVM running for 3.264)
+17:42:43.675 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@72ee5d84, started on Sat Oct 23 17:42:41 GMT+08:00 2021
+17:42:44.298 [main] INFO  com.zyx.init.demo.DemoApplicationTests - UserInfo(id=1, userName=zzz, password=111, createTime=2021-06-10T22:01:19, updateTime=2021-06-10 22:01:19, isDeleted=false)
+17:42:44.329 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:42:44.336 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+20:15:33.838 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_212 on zyx-PC with PID 8260 (started by zyx in /home/zyx/code/spring_boot_init/demo)
+20:15:33.841 [main] INFO  com.zyx.init.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+20:15:35.187 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+20:15:35.286 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+20:15:35.852 [main] INFO  com.zyx.init.demo.DemoApplicationTests - Started DemoApplicationTests in 2.198 seconds (JVM running for 3.228)
+20:15:35.985 [main] INFO  com.zyx.init.demo.DemoApplicationTests - org.springframework.web.context.support.GenericWebApplicationContext@33364212, started on Sat Oct 23 20:15:33 GMT+08:00 2021
+20:15:36.672 [main] INFO  com.zyx.init.demo.DemoApplicationTests - UserInfo(id=1, userName=zzz, password=111, createTime=2021-06-10T22:01:19, updateTime=2021-06-10 22:01:19, isDeleted=false)
+20:15:36.697 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+20:15:36.704 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
